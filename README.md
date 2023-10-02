@@ -6,8 +6,8 @@
 ## Table Of Contents
 
 * [Pre-requisites](#pre-requisites)
-* [Cloning Repo And Installing Dependencies](###Cloning Repo And Installing Dependencies)
-* [Testing With Selenide](###Testing On Single Browser)
+* [Cloning Repo](###Cloning-Repo)
+* [Testing On Single Browser](###Testing-On-Single-Browser)
 
 ## Pre-requisites
 
@@ -19,8 +19,8 @@ Before you can start performing Java automation testing with Selenide, you would
 
 - Install **Maven** which supports **JUnit** framework out of the box. **Maven** can be downloaded and installed following the steps from [the official website](https://maven.apache.org/). Maven can also be installed easily on **Linux/MacOS** using [Homebrew](https://brew.sh/) package manager.
 
-### Cloning Repo And Installing Dependencies
+### Cloning-Repo
 git clone https://github.com/rathsiddharth/SelenideFWK.git
 
-### Testing On Single Browser
+### Testing-On-Single-Browser
 - mvn test -P single
