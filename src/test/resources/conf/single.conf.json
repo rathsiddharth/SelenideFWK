@@ -1,7 +1,7 @@
 {
 	"server":  "localhost:4545",
-	"username": "",
-	"password": "",
+	"username": "Admin",
+	"password": "admin123",
 
 	"capabilities": {
 		"build": "Java Selenide Single"
