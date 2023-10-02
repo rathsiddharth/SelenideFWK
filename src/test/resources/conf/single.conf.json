@@ -1,0 +1,18 @@
+{
+	"server":  "localhost:4545",
+	"username": "",
+	"password": "",
+
+	"capabilities": {
+		"build": "Java Selenide Single"
+	},
+
+	"environments": {
+		"chrome": {
+		    "platform": "Mac",
+			"browserName": "chrome",
+			"version":"latest",
+			"geoLocation":"India"
+		}
+	}
+}

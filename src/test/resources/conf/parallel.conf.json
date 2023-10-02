@@ -1,0 +1,30 @@
+{
+	"server":  "opensource-demo.orangehrmlive.com",
+	"username": "Admin",
+	"password": "admin123",
+
+	"capabilities": {
+		"build": "Java Selenide Parallel"
+	},
+
+	"environments": {
+		"chrome": {
+		    "platform": "windows 11",
+			"browserName": "chrome",
+			"version":"latest",
+			"geoLocation":"India"
+		},
+		"firefox": {
+			"platform": "windows 11",
+			"browserName": "firefox",
+			"version":"latest",
+			"geoLocation":"India"
+		},
+		"safari": {
+			"platform": "macOS Ventura",
+			"browserName": "safari",
+			"version":"latest",
+			"geoLocation":"India"
+		}
+	}
+}
